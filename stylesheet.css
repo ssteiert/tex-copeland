@@ -136,9 +136,9 @@ background-image: url("https://github.com/ssteiert/tex-copeland/blob/main/188056
 .headerimage {
   position: relative;
   width: 100%;
-  height: 100px;
+  height: 250px;
 background-image: url("https://github.com/ssteiert/tex-copeland/blob/main/mobile.jpg?raw=true");
-  background-position: top;
+  background-position: bottom;
   background-size: 100%;
   background-repeat: no-repeat;
   }
