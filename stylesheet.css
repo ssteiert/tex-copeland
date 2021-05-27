@@ -42,7 +42,7 @@ h2 {
 
 .card {
   background-color: #65666A !important;
-  color: #1d3354 !important;
+  color: #fff !important;
   padding: 1.25em;
   border: 0px;
 }
@@ -128,4 +128,5 @@ background-image: url("https://github.com/ssteiert/tex-copeland/blob/main/188056
 
 .navbar-brand {
   font-family: 'Righteous';
+  padding: 1.5em;
 }
