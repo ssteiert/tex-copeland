@@ -226,7 +226,7 @@ background-image: url("https://github.com/ssteiert/tex-copeland/blob/main/mobile
 }
   
   .container-yard {
-    width: 40%;
+    padding: 10px 350px 10px 350px
 }
 
 @media only screen and (min-width: 1350px) {
