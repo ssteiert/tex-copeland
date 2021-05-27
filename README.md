@@ -2,6 +2,15 @@
 
 Mobile City Council District 5 campaign website for candidate Tex Copeland
 
-Blue: #a5653b
-Orange (site):
+<br><br>
+
+Blue: #a5653b<br>
+Orange (site): #1d3354<br>
 Orange (assets): #aa4400
+
+<br><br>
+
+Font: Righteous<br>
+https://fonts.google.com/specimen/Righteous
+
+
