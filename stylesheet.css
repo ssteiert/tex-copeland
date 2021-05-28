@@ -15,6 +15,10 @@ section {
   height: 600px;
 }
 
+a {
+  color: #1d3354 !important;
+}
+
 h1 {
   font-family: "Righteous";
   color: #1d3354;
