@@ -38,16 +38,14 @@ h2 {
 }
 
 .card {
-  background-color: #65666A !important;
-  color: #fff !important;
+  background-color: #e6e6e6 !important;
   padding: 1.25em;
   border: 0px;
 }
 
 
 .card:hover{
-  background-color: #5a6408 !important;
-  color: white !important;
+  background-color: #d1d1d1 !important;
 }
 
 .endorsement-card {
