@@ -48,6 +48,10 @@ h2 {
   background-color: #d1d1d1 !important;
 }
 
+.modal-content{
+  padding: 1.5em;
+}
+
 .endorsement-card {
   background-color: #fff;
   color: #1d3354;
