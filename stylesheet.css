@@ -19,6 +19,10 @@ a {
   color: #1d3354 !important;
 }
 
+a:hover {
+  color:#5a6408 !important;
+}
+
 h1 {
   font-family: "Righteous";
   color: #1d3354;
