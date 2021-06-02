@@ -17,6 +17,7 @@ section {
 
 a {
   color: #1d3354 !important;
+  text-decoration: none !important;
 }
 
 a:hover {
@@ -43,6 +44,7 @@ h2 {
 .btn:hover {
    background-color: #1d3354 !important;
   border-color: #1d3354 !important;
+  box-shadow: 5px 10px !important;
 }
 
 .card {
