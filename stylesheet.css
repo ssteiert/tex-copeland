@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-  color:#5a6408 !important;
+  color:#59630a !important;
 }
 
 h1 {
@@ -38,8 +38,8 @@ h2 {
 .btn {
   font-family: "Righteous";
   text-transform: uppercase;
-  background-color: #5a6408 !important;
-  border-color: #5a6408 !important;
+  background-color: #59630a !important;
+  border-color: #59630a !important;
 }
 .btn:hover {
    background-color: #1d3354 !important;
@@ -237,10 +237,6 @@ background-image: url("https://github.com/ssteiert/tex-copeland/blob/main/mobile
   height: 150px;
 }
   
-  .container-yard {
-    padding: 10px 350px 10px 350px
-}
-
 @media only screen and (min-width: 1350px) {
   
 }
