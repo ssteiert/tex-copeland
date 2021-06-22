@@ -35,6 +35,11 @@ h2 {
 
 }
 
+h4 {
+  color: #59630a !important;
+  font-weight: bold;
+}
+
 .btn {
   font-family: "Righteous";
   text-transform: uppercase;
